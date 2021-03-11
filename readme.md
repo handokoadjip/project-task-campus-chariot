@@ -22,7 +22,7 @@ Just fork or download it from this repository then copy it to htdocs directory. 
 
 ## Usage example
 
-![Home](http://bebaskripsi.000webhostapp.com/project-campus-marketplace-chariot/home.png)
+![Home](http://bebaskripsi.000webhostapp.com/project-task-campus-chariot/home.png)
 
 _For more examples and usage, please contact [Handoko Adji Pangestu](https://www.instagram.com/handokoadjip/)._
 
