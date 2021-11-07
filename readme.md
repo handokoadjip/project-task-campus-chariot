@@ -24,7 +24,7 @@ Just fork or download it from this repository then copy it to htdocs directory. 
 
 ![Home](http://bebaskripsi.000webhostapp.com/project-task-campus-chariot/home.png)
 
-_For more examples and usage, please contact [Handoko Adji Pangestu](https://www.instagram.com/handokoadjip/)._
+_For more examples and usage, please contact [Handoko Adji Pangestu](https://www.instagram.com/handokoadp/)._
 
 ## Development setup
 
@@ -47,7 +47,7 @@ $database = '{yourDatabaseName}';
 
 ## Meta
 
-Handoko Adji Pangestu – [@handokoadjip](https://www.instagram.com/handokoadjip/) – handokoadjipangestu@gmail.com
+Handoko Adji Pangestu – [@handokoadjip](https://www.instagram.com/handokoadp/) – handokoadjipangestu@gmail.com
 
 Distributed under the MIT license. See `LICENSE` for more information.
 
